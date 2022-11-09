@@ -1,0 +1,99 @@
+#############################################
+# Texto en español (Configurable)#  es.yml  #
+#############################################
+#                  Si y No                  #
+#############################################
+
+text_yes: "&aSi"
+text_no: "&cNo"
+
+###################################
+# Visualización de la colmena (GUI)
+###################################
+
+beehive_info_gui_title: "&8Información de la colmena"
+beehive_info_gui_honey_capacity: "&fCantidad de miel"
+beehive_info_gui_honey_capacity_desc: "&aCapacidad: &7%current%/%maximum%"
+beehive_info_gui_bee_capacity: "&fCantidad de abejas"
+beehive_info_gui_bee_capacity_desc: "&aCantidad: &7%current%/%maximum% abejas"
+beehive_info_gui_sedated: "&aSedado"
+beehive_info_gui_not_sedated: "&cNo sedado"
+beehive_info_gui_flower: "&fFlor"
+
+#####################################
+# Usa "||" para crear una nueva línea
+#####################################
+
+beehive_info_gui_no_target_flower_desc: "&aEsta colmena &c&lNo||&atiene una flor de &lobjetivo!"
+honey_low: "Bajo"
+honey_medium: "Medio"
+honey_high: "Alto"
+honey_very_high: "Muy alto"
+
+#################################
+# Visualización de la abeja (GUI)
+#################################
+
+bee_info_gui_title: "&8Información de la abeja"
+bee_info_gui_age: "&fEdad"
+bee_info_gui_age_adult: "&aAdulta"
+bee_info_gui_age_baby: "&aBebé"
+bee_info_gui_anger: "&fEnojada"
+
+#######################################################
+# Usa %level% para marcar el nivel de enojo de la abeja
+#######################################################
+
+bee_info_gui_anger_level_desc: "&aNivel de enojo: &7%level%"
+bee_info_gui_hive_location: "&fUbicación de la colmena"
+
+#####################################
+# Usa "||" para crear una nueva línea
+#####################################
+
+bee_info_gui_no_hive_desc: "&aEsta abeja &c&lno||&atiene una &lcolmena!"
+bee_info_gui_ride: "&fMontar"
+bee_info_gui_ride_no_permission: "&c¡No tienes permiso para montar abejas!"
+bee_info_gui_ride_angry: "&c¡No puedes montar abejas enojadas!"
+bee_info_gui_ride_already: "&c¡Alguien más ya está montando esta abeja!"
+bee_info_gui_ride_too_far: "&cYou're too far away to ride this bee!"
+bee_info_gui_has_stung: "&f¿ha picado?"
+bee_info_gui_has_nectar: "&f¿tiene néctar?"
+bee_info_gui_health: "&fSalud"
+
+############################################################
+# Cambie el ícono "❤" para representar la salud de la abeja
+############################################################
+
+bee_info_gui_health_desc: "&aSalud: &7%health% ❤"
+
+###############################
+# Título al montar una abeja
+# Subtitulo al montar una abeja
+###############################
+
+ride_bee_title: "&6Ahora estás montando"
+ride_bee_subtitle: "&6una abeja &8%name%&6!"
+
+################################
+# Nombre de la armadura de abeja
+################################
+
+bee_protection_helmet: "&6Casco con protección de abejas"
+bee_protection_chestplate: "&6Peto con protección de abejas"
+bee_protection_leggings: "&6Pantalon con protección de abejas"
+bee_protection_boots: "&6Botas con protección de abejas"
+
+#####################################
+# Elemento para actualizar la colmena
+#####################################
+
+beehive_upgrade_item_name: "&6Actualizador de colmena"
+
+#####################################
+# Usa "||" para crear una nueva línea
+#####################################
+
+beehive_upgrade_item_lore: "&7Capacidad de abejas: &a+3||&8(Clic derecho para usar)"
+beehive_upgrade_success: "&aColmena mejorada! Nueva población: &7%beesno%&a &e&lAbejas"
+beehive_upgrade_max: "&c¡Ups!: Esta &e&lcolmena&c ha alcanzado la &lpoblación máxima!"
